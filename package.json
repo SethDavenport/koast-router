@@ -4,11 +4,11 @@
   "description": "Express Router Abstraction",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "gulp mocha"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HoltMansfield/koast-router.git"
+    "url": "https://github.com/rangle/koast-router.git"
   },
   "keywords": [
     "Express",
@@ -17,9 +17,9 @@
   "author": "rangle.io",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HoltMansfield/koast-router/issues"
+    "url": "https://github.com/rangle/koast-router/issues"
   },
-  "homepage": "https://github.com/HoltMansfield/koast-router",
+  "homepage": "https://github.com/rangle/koast-router",
   "devDependencies": {
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
