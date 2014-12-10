@@ -1,6 +1,6 @@
 {
   "name": "koast-router",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Express Router Abstraction",
   "main": "index.js",
   "scripts": {
@@ -31,6 +31,7 @@
   },
   "dependencies": {
     "express": "^4.10.4",
-    "underscore": "^1.7.0"
+    "underscore": "^1.7.0",
+    "koast-logger": "^1.0.0"
   }
 }
