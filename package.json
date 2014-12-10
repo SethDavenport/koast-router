@@ -1,6 +1,6 @@
 {
   "name": "koast-router",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Express Router Abstraction",
   "main": "index.js",
   "scripts": {
